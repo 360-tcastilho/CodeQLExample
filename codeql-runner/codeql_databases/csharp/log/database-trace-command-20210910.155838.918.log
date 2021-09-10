@@ -1,0 +1,6 @@
+[2021-09-10 15:58:38] This is codeql database trace-command C:\Users\tcastilho\source\repos\CodeQLExample\codeql-runner\codeql_databases\csharp C:\Users\tcastilho\source\codeql\codeql-runner-win.exe C:\Users\tcastilho\source\repos\CodeQLExample\codeql-runner\codeql_databases\csharp\working\tracer-env.js C:\Users\tcastilho\source\repos\CodeQLExample\codeql-runner\codeql_databases\csharp\working\env.tmp
+[2021-09-10 15:58:38] Log file was started late.
+[2021-09-10 15:58:38] Setting up tracing from specification at C:\Users\tcastilho\codeql-runner-tools\CodeQL\0.0.0-20210909\x64\codeql\csharp\tools\win64\compiler-tracing.spec.
+[2021-09-10 15:58:39] [PROGRESS] database trace-command> Running command in C:\Users\tcastilho\source\repos\CodeQLExample: [C:\Users\tcastilho\source\codeql\codeql-runner-win.exe, C:\Users\tcastilho\source\repos\CodeQLExample\codeql-runner\codeql_databases\csharp\working\tracer-env.js, C:\Users\tcastilho\source\repos\CodeQLExample\codeql-runner\codeql_databases\csharp\working\env.tmp]
+[2021-09-10 15:58:39] [build-stdout] C:\Users\tcastilho\source\repos\CodeQLExample\codeql-runner\codeql_databases\csharp\working\env.tmp
+[2021-09-10 15:58:39] Terminating normally.

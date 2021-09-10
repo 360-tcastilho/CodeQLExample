@@ -1,0 +1,52 @@
+[2021-09-10 15:58:37] This is codeql database init C:\Users\tcastilho\source\repos\CodeQLExample\codeql-runner\codeql_databases\csharp --language=csharp --source-root=C:\Users\tcastilho\source\repos\CodeQLExample
+[2021-09-10 15:58:37] Log file was started late.
+[2021-09-10 15:58:37] [PROGRESS] database init> Resolving extractor csharp.
+[2021-09-10 15:58:37] Calling plumbing command: codeql resolve languages --format=json
+[2021-09-10 15:58:38] [DETAILS] resolve languages> Scanning for codeql-extractor.yml from C:\Users\tcastilho\codeql-runner-tools\CodeQL\0.0.0-20210909\x64\codeql\.codeqlmanifest.json
+[2021-09-10 15:58:38] [DETAILS] resolve languages> Parsing C:\Users\tcastilho\codeql-runner-tools\CodeQL\0.0.0-20210909\x64\codeql\cpp\codeql-extractor.yml.
+[2021-09-10 15:58:38] [DETAILS] resolve languages> Parsing C:\Users\tcastilho\codeql-runner-tools\CodeQL\0.0.0-20210909\x64\codeql\csharp\codeql-extractor.yml.
+[2021-09-10 15:58:38] [DETAILS] resolve languages> Parsing C:\Users\tcastilho\codeql-runner-tools\CodeQL\0.0.0-20210909\x64\codeql\csv\codeql-extractor.yml.
+[2021-09-10 15:58:38] [DETAILS] resolve languages> Parsing C:\Users\tcastilho\codeql-runner-tools\CodeQL\0.0.0-20210909\x64\codeql\go\codeql-extractor.yml.
+[2021-09-10 15:58:38] [DETAILS] resolve languages> Parsing C:\Users\tcastilho\codeql-runner-tools\CodeQL\0.0.0-20210909\x64\codeql\html\codeql-extractor.yml.
+[2021-09-10 15:58:38] [DETAILS] resolve languages> Parsing C:\Users\tcastilho\codeql-runner-tools\CodeQL\0.0.0-20210909\x64\codeql\java\codeql-extractor.yml.
+[2021-09-10 15:58:38] [DETAILS] resolve languages> Parsing C:\Users\tcastilho\codeql-runner-tools\CodeQL\0.0.0-20210909\x64\codeql\javascript\codeql-extractor.yml.
+[2021-09-10 15:58:38] [DETAILS] resolve languages> Parsing C:\Users\tcastilho\codeql-runner-tools\CodeQL\0.0.0-20210909\x64\codeql\properties\codeql-extractor.yml.
+[2021-09-10 15:58:38] [DETAILS] resolve languages> Parsing C:\Users\tcastilho\codeql-runner-tools\CodeQL\0.0.0-20210909\x64\codeql\python\codeql-extractor.yml.
+[2021-09-10 15:58:38] [DETAILS] resolve languages> Parsing C:\Users\tcastilho\codeql-runner-tools\CodeQL\0.0.0-20210909\x64\codeql\xml\codeql-extractor.yml.
+[2021-09-10 15:58:38] Plumbing command codeql resolve languages completed:
+                      {
+                        "cpp" : [
+                          "C:\\Users\\tcastilho\\codeql-runner-tools\\CodeQL\\0.0.0-20210909\\x64\\codeql\\cpp"
+                        ],
+                        "csharp" : [
+                          "C:\\Users\\tcastilho\\codeql-runner-tools\\CodeQL\\0.0.0-20210909\\x64\\codeql\\csharp"
+                        ],
+                        "csv" : [
+                          "C:\\Users\\tcastilho\\codeql-runner-tools\\CodeQL\\0.0.0-20210909\\x64\\codeql\\csv"
+                        ],
+                        "go" : [
+                          "C:\\Users\\tcastilho\\codeql-runner-tools\\CodeQL\\0.0.0-20210909\\x64\\codeql\\go"
+                        ],
+                        "html" : [
+                          "C:\\Users\\tcastilho\\codeql-runner-tools\\CodeQL\\0.0.0-20210909\\x64\\codeql\\html"
+                        ],
+                        "java" : [
+                          "C:\\Users\\tcastilho\\codeql-runner-tools\\CodeQL\\0.0.0-20210909\\x64\\codeql\\java"
+                        ],
+                        "javascript" : [
+                          "C:\\Users\\tcastilho\\codeql-runner-tools\\CodeQL\\0.0.0-20210909\\x64\\codeql\\javascript"
+                        ],
+                        "properties" : [
+                          "C:\\Users\\tcastilho\\codeql-runner-tools\\CodeQL\\0.0.0-20210909\\x64\\codeql\\properties"
+                        ],
+                        "python" : [
+                          "C:\\Users\\tcastilho\\codeql-runner-tools\\CodeQL\\0.0.0-20210909\\x64\\codeql\\python"
+                        ],
+                        "xml" : [
+                          "C:\\Users\\tcastilho\\codeql-runner-tools\\CodeQL\\0.0.0-20210909\\x64\\codeql\\xml"
+                        ]
+                      }
+[2021-09-10 15:58:38] [DETAILS] database init> Found candidate extractor root for csharp: C:\Users\tcastilho\codeql-runner-tools\CodeQL\0.0.0-20210909\x64\codeql\csharp.
+[2021-09-10 15:58:38] [PROGRESS] database init> Successfully loaded extractor C# (csharp) from C:\Users\tcastilho\codeql-runner-tools\CodeQL\0.0.0-20210909\x64\codeql\csharp.
+[2021-09-10 15:58:38] [PROGRESS] database init> Created CodeQL database at C:\Users\tcastilho\source\repos\CodeQLExample\codeql-runner\codeql_databases\csharp.
+[2021-09-10 15:58:38] Terminating normally.

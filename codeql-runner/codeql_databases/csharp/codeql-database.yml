@@ -1,0 +1,28 @@
+---
+sourceLocationPrefix: "C:\\Users\\tcastilho\\source\\repos\\CodeQLExample"
+unicodeNewlines: false
+columnKind: "utf16"
+primaryLanguage: "csharp"
+inProgress:
+  primaryLanguage: "csharp"
+  installedExtractors:
+    cpp:
+    - "file:///C:/Users/tcastilho/codeql-runner-tools/CodeQL/0.0.0-20210909/x64/codeql/cpp/"
+    csharp:
+    - "file:///C:/Users/tcastilho/codeql-runner-tools/CodeQL/0.0.0-20210909/x64/codeql/csharp/"
+    csv:
+    - "file:///C:/Users/tcastilho/codeql-runner-tools/CodeQL/0.0.0-20210909/x64/codeql/csv/"
+    go:
+    - "file:///C:/Users/tcastilho/codeql-runner-tools/CodeQL/0.0.0-20210909/x64/codeql/go/"
+    html:
+    - "file:///C:/Users/tcastilho/codeql-runner-tools/CodeQL/0.0.0-20210909/x64/codeql/html/"
+    java:
+    - "file:///C:/Users/tcastilho/codeql-runner-tools/CodeQL/0.0.0-20210909/x64/codeql/java/"
+    javascript:
+    - "file:///C:/Users/tcastilho/codeql-runner-tools/CodeQL/0.0.0-20210909/x64/codeql/javascript/"
+    properties:
+    - "file:///C:/Users/tcastilho/codeql-runner-tools/CodeQL/0.0.0-20210909/x64/codeql/properties/"
+    python:
+    - "file:///C:/Users/tcastilho/codeql-runner-tools/CodeQL/0.0.0-20210909/x64/codeql/python/"
+    xml:
+    - "file:///C:/Users/tcastilho/codeql-runner-tools/CodeQL/0.0.0-20210909/x64/codeql/xml/"

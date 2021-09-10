@@ -1,0 +1,33 @@
+[T 15:58:39 23416] Reading configuration file C:\Users\tcastilho\source\repos\CodeQLExample\codeql-runner\codeql_databases\working\tracing\compiler-tracing5682784317704373785.spec...
+[T 15:58:39 23416] Initialising tags...
+[T 15:58:39 23416] ID set to 0000000000005B78_0000000000000001 (parent root)
+[T 15:58:39 23416] Reading configuration file C:\Users\tcastilho\source\repos\CodeQLExample\codeql-runner\codeql_databases\working\tracing\compiler-tracing5682784317704373785.spec...
+[T 15:58:39 23416] Compilers file as of 2021-09-10 15:58:39
+[T 15:58:39 23416] Compiler pattern: **\moles*.exe
+[T 15:58:39 23416] Replace intercepted call: 0
+[T 15:58:39 23416] Extractor: <null>
+[T 15:58:39 23416] Compilers file as of 2021-09-10 15:58:39
+[T 15:58:39 23416] Compiler pattern: **\fakes*.exe
+[T 15:58:39 23416] Replace intercepted call: 0
+[T 15:58:39 23416] Extractor: <null>
+[T 15:58:39 23416] Compilers file as of 2021-09-10 15:58:39
+[T 15:58:39 23416] Compiler pattern: **\csc*.exe
+[T 15:58:39 23416] Replace intercepted call: 0
+[T 15:58:39 23416] Extractor: C:\Users\tcastilho\codeql-runner-tools\CodeQL\0.0.0-20210909\x64\codeql\csharp\tools\win64\Semmle.Extraction.CSharp.Driver.exe
+[T 15:58:39 23416] Prepend[0] "--compiler"
+[T 15:58:39 23416] Prepend[1] ""${compiler}""
+[T 15:58:39 23416] Prepend[2] "--cil"
+[T 15:58:39 23416] Initialising tags...
+[T 15:58:39 23416] ID set to 0000000000005B78_0000000000000002 (parent root)
+[T 15:58:39 23416] ==== Candidate to intercept: C:\Users\tcastilho\codeql-runner-tools\CodeQL\0.0.0-20210909\x64\codeql\tools\win64\runner.exe ====
+[T 15:58:39 2128] Reading configuration file C:\Users\tcastilho\source\repos\CodeQLExample\codeql-runner\codeql_databases\working\tracing\compiler-tracing5682784317704373785.spec...
+[T 15:58:39 2128] Initialising tags...
+[T 15:58:39 2128] ID set to 0000000000000850_0000000000000001 (parent action_sandwich)
+[T 15:58:39 2128] ==== Candidate to intercept: C:\Windows\System32\cmd.exe ====
+[T 15:58:39 15068] Reading configuration file C:\Users\tcastilho\source\repos\CodeQLExample\codeql-runner\codeql_databases\working\tracing\compiler-tracing5682784317704373785.spec...
+[T 15:58:39 15068] Initialising tags...
+[T 15:58:39 15068] ID set to 0000000000003ADC_0000000000000001 (parent action_sandwich)
+[T 15:58:39 15068] ==== Candidate to intercept: C:\Users\tcastilho\source\codeql\codeql-runner-win.exe ====
+[T 15:58:39 23252] Reading configuration file C:\Users\tcastilho\source\repos\CodeQLExample\codeql-runner\codeql_databases\working\tracing\compiler-tracing5682784317704373785.spec...
+[T 15:58:39 23252] Initialising tags...
+[T 15:58:39 23252] ID set to 0000000000005AD4_0000000000000001 (parent action_sandwich)
